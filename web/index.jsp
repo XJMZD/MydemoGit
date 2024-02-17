@@ -12,7 +12,7 @@
     <title>Title</title>
 </head>
 <body>
-
+12313
 <a href="index?name='123'">转发</a>
 <span>name:${name}</span>
 </body>
